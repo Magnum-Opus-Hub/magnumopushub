@@ -142,14 +142,14 @@ function ContactDetails() {
 
 export const metadata: Metadata = {
   title: 'Contact Us',
-  description: `Let’s work together. Don't be shy, we can’t wait to hear from you.`,
+  description: `Let's work together. Don't be shy, we can’t wait to hear from you.`,
 }
 
 export default function Contact() {
   return (
     <>
       <PageIntro eyebrow="Contact us" title="Let’s work together">
-        <p>Don't be shy, we can’t wait to hear from you.</p>
+        <p>Don not be shy, we can not wait to hear from you.</p>
       </PageIntro>
 
       <Container className="mt-24 sm:mt-32 lg:mt-40">
