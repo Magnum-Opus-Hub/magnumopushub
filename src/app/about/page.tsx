@@ -60,7 +60,7 @@ function Culture() {
 
 const team = [
   {
-    title: 'Magnum Opus',
+    title: 'Magnum Opus Team',
     people: [
       {
         name: 'Mihai Balan',
