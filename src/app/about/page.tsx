@@ -42,7 +42,7 @@ function Culture() {
         <GridList>
           <GridListItem title="Loyalty" invert>
             Our team has been with us since the beginning because none of them
-            are allowed to have LinkedIn profiles.
+            are allowed to have LinkedIn profiles. lol
           </GridListItem>
           <GridListItem title="Trust" invert>
             We don’t care when our team works just as long as they are working
