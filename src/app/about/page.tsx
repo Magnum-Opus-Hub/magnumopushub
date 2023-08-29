@@ -21,6 +21,8 @@ import imageKathrynMurphy from '@/images/team/kathryn-murphy.jpg'
 import imageLeonardKrasner from '@/images/team/leonard-krasner.jpg'
 import imageLeslieAlexander from '@/images/team/leslie-alexander.jpg'
 import imageMichaelFoster from '@/images/team/michael-foster.jpg'
+import imageMihaiBalan from '@/images/team/mihai-balan.jpg'
+import imageFilipStan from '@/images/team/filip-stan.jpg'
 import imageWhitneyFrancis from '@/images/team/whitney-francis.jpg'
 import { loadArticles } from '@/lib/mdx'
 
@@ -58,27 +60,22 @@ function Culture() {
 
 const team = [
   {
-    title: 'Leadership',
+    title: 'Magnum Opus',
     people: [
       {
-        name: 'Leslie Alexander',
-        role: 'Co-Founder / CEO',
-        image: { src: imageLeslieAlexander },
+        name: 'Mihai Balan',
+        role: 'Co-Founder / Developer',
+        image: { src: imageMihaiBalan },
       },
       {
-        name: 'Michael Foster',
-        role: 'Co-Founder / CTO',
-        image: { src: imageMichaelFoster },
-      },
-      {
-        name: 'Dries Vincent',
-        role: 'Partner & Business Relations',
-        image: { src: imageDriesVincent },
+        name: 'Filip Stan',
+        role: 'Co-Founder / Developer',
+        image: { src: imageFilipStan },
       },
     ],
   },
   {
-    title: 'Team',
+    title: 'The [Hub]',
     people: [
       {
         name: 'Chelsea Hagon',
@@ -211,9 +208,9 @@ export default async function About() {
       </PageIntro>
       <Container className="mt-16">
         <StatList>
-          <StatListItem value="35" label="Underpaid employees" />
-          <StatListItem value="52" label="Placated clients" />
-          <StatListItem value="$25M" label="Invoices billed" />
+          <StatListItem value="12" label="Finished Projects" />
+          <StatListItem value="9" label="Satisfied Clients" />
+          <StatListItem value="8" label="[Hub] Active Members" />
         </StatList>
       </Container>
 
