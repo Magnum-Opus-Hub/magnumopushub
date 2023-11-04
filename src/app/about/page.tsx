@@ -64,7 +64,7 @@ const team = [
     people: [
       {
         name: 'Mihai Balan',
-        role: 'Co-Founder / Developer',
+        role: 'Co-Founder / Developer and UI/UX',
         image: { src: imageMihaiBalan },
       },
       {
@@ -78,49 +78,34 @@ const team = [
     title: 'The [Hub]',
     people: [
       {
-        name: 'Chelsea Hagon',
-        role: 'Senior Developer',
+        name: 'Valeria Ursu',
+        role: 'Marketing Specialist',
         image: { src: imageChelseaHagon },
       },
       {
-        name: 'Emma Dorsey',
-        role: 'Senior Designer',
+        name: 'Alex Toma',
+        role: 'Copywriter Specialist',
         image: { src: imageEmmaDorsey },
       },
       {
-        name: 'Leonard Krasner',
-        role: 'VP, User Experience',
+        name: 'Andreea Gheorghicescu',
+        role: 'Project Manager, PR',
         image: { src: imageLeonardKrasner },
       },
       {
-        name: 'Blake Reid',
-        role: 'Junior Copywriter',
+        name: 'Andrei Cosmin Bala',
+        role: 'Graphic and Motion Designer',
         image: { src: imageBlakeReid },
       },
       {
-        name: 'Kathryn Murphy',
-        role: 'VP, Human Resources',
+        name: 'Andrei Albu',
+        role: 'Graphic Designer',
         image: { src: imageKathrynMurphy },
       },
       {
-        name: 'Whitney Francis',
-        role: 'Content Specialist',
+        name: 'Alex Mircean',
+        role: 'Software Developer',
         image: { src: imageWhitneyFrancis },
-      },
-      {
-        name: 'Jeffrey Webb',
-        role: 'Account Coordinator',
-        image: { src: imageJeffreyWebb },
-      },
-      {
-        name: 'Benjamin Russel',
-        role: 'Senior Developer',
-        image: { src: imageBenjaminRussel },
-      },
-      {
-        name: 'Angela Fisher',
-        role: 'Front-end Developer',
-        image: { src: imageAngelaFisher },
       },
     ],
   },

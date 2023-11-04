@@ -38,7 +38,7 @@ function Clients() {
       <Container>
         <FadeIn className="flex items-center gap-x-8">
           <h2 className="text-center font-display text-sm font-semibold tracking-wider text-white sm:text-left">
-            We’ve worked with hundreds of amazing people
+            We’ve worked with amazing people
           </h2>
           <div className="h-px flex-auto bg-neutral-800" />
         </FadeIn>
@@ -69,13 +69,13 @@ function CaseStudies({
   return (
     <>
       <SectionIntro
-        title="Harnessing technology for a brighter future"
+        title="Leveraging Technology to Illuminate a Promising Tomorrow"
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          We believe technology is the answer to the world’s greatest
-          challenges. It’s also the cause, so we find ourselves in bit of a
-          catch 22 situation.
+          Crafting digital narratives that captivate and inspire, we are your
+          partners in building a dynamic online presence. Let our creativity be
+          the fuel that drives your brand's digital evolution.
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -126,12 +126,11 @@ function Services() {
     <>
       <SectionIntro
         eyebrow="Services"
-        title="We help you identify, explore and respond to new opportunities."
+        title="Discover, explore, and seize new digital horizons with us."
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          As long as those opportunities involve giving us money to re-purpose
-          old projects — we can come up with an endless number of those.
+          We gathered specialists from all digital creative areas to assure a fully scoped perspective over your project.
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -147,23 +146,30 @@ function Services() {
           </div>
           <List className="mt-16 lg:mt-0 lg:w-1/2 lg:min-w-[33rem] lg:pl-4">
             <ListItem title="Web development">
-              We specialise in crafting beautiful, high quality marketing pages.
-              The rest of the website will be a shell that uses lorem ipsum
-              everywhere.
+              Transforming visions into captivating digital experiences. Unleash
+              the power of creativity with our cutting-edge web development
+              solutions. Elevate your online presence today
             </ListItem>
             <ListItem title="Application development">
-              We have a team of skilled developers who are experts in the latest
-              app frameworks, like Angular 1 and Google Web Toolkit.
+              Crafting seamless and innovative applications that redefine user
+              experiences. Let us bring your app ideas to life, making
+              technology work for you
             </ListItem>
             <ListItem title="E-commerce">
-              We are at the forefront of modern e-commerce development. Which
-              mainly means adding your logo to the Shopify store template we’ve
-              used for the past six years.
+              Unlock new possibilities for your business with our tailored
+              e-commerce solutions. Seamlessly integrate technology and design
+              to drive sales and enhance customer satisfaction
             </ListItem>
-            <ListItem title="Custom content management">
-              At Studio we understand the importance of having a robust and
-              customised CMS. That’s why we run all of our client projects out
-              of a single, enormous Joomla instance.
+            <ListItem title="Brand Identity">
+              Shape your brand's story with a distinctive identity that
+              resonates. From logos to messaging, we craft an authentic brand
+              narrative that leaves a lasting impression
+            </ListItem>
+            <ListItem title="Marketing Campaigns and Public Relations">
+              Amplify your brand's voice and reach with our dynamic marketing
+              campaigns and strategic public relations. Let us help you build
+              meaningful connections and leave a lasting impact on your
+              audience.
             </ListItem>
           </List>
         </div>
